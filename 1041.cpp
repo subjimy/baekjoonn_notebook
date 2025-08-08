@@ -52,7 +52,7 @@ int main(){
         return 0;
     }
 
-    int dice[6] = 0;
+    int dice[6] = {};
     int one, two, three;
     int p1=0;
     int p2=0;
